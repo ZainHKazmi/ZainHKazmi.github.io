@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Hons B.Sc. in Mathematics, Computer Science & Statistics, University of Toronto, 2021 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2020 - Present: Chief Executive Officer
+  * Execusoft Solutions Inc.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019 - Current: Software Developer
+  * Ontario Ministry of Health: Public Health IT Solutions Branch
+  * Lead developer for a plethora of public health software tools
+  * Developed GUI and enhancements for risk categorization & Laboratory inspection tools built-on ASP.NET
+  * Deployed solutions to major bug fixes on Java Server Faces Laboratory Resource Management web application 
+  * Provided development and Tier II + support for Covid19 mission critical CRM self assessment salesforce tool
+  * Worked with a plethora of tools including C#, Java, ASP.NET, JSF, Salesforce, HTML, CSS, JavaScript, JQuery, Git, SVN, CVS and SQL Server 
+
+* Fall-Winter 2019/2020: Research Analyst
+  * University of Toronto Mississauga
+  * Developed regression models in Python for analytics of student code and course data
+  * Models provided predictive analytics on future courses students would take as well as marks in future courses
+  * Utilized core statistical concepts such as Linear Regression and Conditional Probability
+  * Supervisor: Andrew Petersen
+
   
 Skills
 ======
