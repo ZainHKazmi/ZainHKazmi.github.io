@@ -93,7 +93,7 @@ Skills
     * SQL Server
     * OracleDB
     * SQLite
- * NoSQL:
+  * NoSQL:
     * DynamoDB
     * Firebase
     * MongoDB
