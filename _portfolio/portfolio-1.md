@@ -1,6 +1,6 @@
 ---
 title: "Movieshare"
-excerpt: "Movie sharing web application built-on a MERN (MongoDB, ExpressJS, ReactJs, NodeJS)" <br/><img src='/images/movieshare.png'>"
+excerpt: "Movie sharing web application built-on a MERN (MongoDB, ExpressJS, ReactJs, NodeJS) <br/><img src='/images/movieshare.png'>"
 collection: portfolio
 ---
 
