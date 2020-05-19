@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Movieshare"
+excerpt: "Movie sharing web application built-on a MERN (MongoDB, ExpressJS, ReactJs, NodeJS)" <br/><img href="https://github.com/zainhkazmi/movieshare" src='/images/movieshare.png'>"
 collection: portfolio
 ---
 
