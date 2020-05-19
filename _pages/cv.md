@@ -114,6 +114,7 @@ Skills
   * Linux and *nix OS
   * Jira, Confluence and notion.so
   * Microsoft azure and power automate
+  * Content management systems (CMSs) such as Wordpress, Drupal, Joomla and Magento
 
 * General skills:
   * Web Development
