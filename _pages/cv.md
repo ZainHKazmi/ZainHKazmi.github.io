@@ -55,12 +55,73 @@ Research Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages that I have expert-level profeciency in:
+  * Python
+  * Java
+  * C
+  * C#
+  * Javascript
+    * NodeJS
+  * C++
+  * PHP
+  * R
+  * HTML/CSS
+ 
+* Some Web Development Frameworks I have experience with:
+  * ReactJS
+  * ASP.NET
+  * Django
+  * Django Rest Framework
+  * Spring Boot MVC
+  * AngularJS
+  * Angular 2.0
+  * ExpressJS
+  * Java Server Faces
+  * CakePHP
+  * VueJS/Vuepress
+  * And more...
+
+* In terms of Mobile Development, I've worked with:
+  * Swift/Xcode
+  * Android Studio (Koltin and Java)
+  * Flutter (written on Dart)
+  * React Native
+
+* Some of the Databases I work with often:
+  * SQL:
+    * MySQL
+    * SQL Server
+    * OracleDB
+    * SQLite
+ * NoSQL:
+    * DynamoDB
+    * Firebase
+    * MongoDB
+    * ..and more
+
+* Essential Software Dev Tools I use regularily:
+  * Amazaon Web Services (AWS):
+    * EC2
+    * AWS Lambda
+    * DynamoDB
+    * AWS RDS
+  * Git (this website is hosted on github pages)
+  * Docker
+  * Virtual Machines
+  * Vagrant
+  * SVN/CVS
+  * Salesforce
+  * Linux and *nix OS
+  * Jira, Confluence and notion.so
+  * Microsoft azure and power automate
+
+* General skills:
+  * Web Development
+  * Machine Learning
+  * Data Analytics
+  * Mathematics
+  * Project Management
+  * IT Consulting
 
 Publications
 ======
