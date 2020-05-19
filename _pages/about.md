@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Experienced Tech executive and Software Engineer highly-skilled in Full-Stack development, Machine Learning and Systems Programming with a Computer Science and Mathematics background from the University of Toronto.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My breadth of experience ranges from high-profiting startups to large government organizations. Tools I developed have saved organizations millions of dollars $$$ as well as have increased task efficiency up-to 1000%. I also have had the opportunity to work alongside and learn from some of the most accomplished individuals in their respective fields. My skills as a leader and a software developer are something I try to refine at every opportunity and I also do my best to help others along the way.
+
+In addition to my full-time role, I spend time advising and consulting for growing teams and startups on a plethora of technological endeavors including full-stack web development, systems integrations and migrations, GUI development and software engineering best practices. 
 
 A data-driven personal website
 ======
